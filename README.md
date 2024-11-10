@@ -18,6 +18,8 @@ Visit the repository on Docker Hub [here](https://hub.docker.com/repository/dock
 ## Live Demo
 Experience the project in action by visiting the live demo [here](https://aboutme-lgonzalez-production.up.railway.app/)!
 
+![image](https://github.com/user-attachments/assets/80ad50c3-5976-4e36-b5ff-719edfe3d279)
+
 ## Authors
 
 - [@lxgonzalez](https://github.com/lxgonzalez)
